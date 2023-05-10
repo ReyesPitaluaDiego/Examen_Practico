@@ -8,7 +8,7 @@ En esta practica me piden crear la parte del frontend y backend.
 3.- elaborar la DB en SQL Server
 
 Comentarios:
-No he suado el freamwork Angular, y no tengo la experiencia de habier creado una API Rest en el pasado.
+No he suado el freamwork Angular, y no tengo la experiencia de haber creado una API Rest en el pasado.
 
 Mi solucion fue hacerlo con las tecnologías que domino, creé la conexión a mi DB con PHP y con ese mismo lenguaje realize el CRUD, la parte del frontend lo hice con ayuda del freamwork Bootstrap (no le dedique tanto tiempo al diseño como me hubiera gustado por estudiar la estructura de una API) y el diseño de la Base de Datos lo hice con MySQL.
 
