@@ -4,7 +4,9 @@ Examen practico de la empresa COMA
 En esta practica me piden crear la parte del frontend y backend.
 
 1.- Elaborar un cliente (front-end) que consuma el API Rest y debe ser progrmado en Angular.
+
 2.- Elaborar el API Rest con net core 3+.
+
 3.- elaborar la DB en SQL Server
 
 Comentarios:
