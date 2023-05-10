@@ -15,3 +15,11 @@ Mi solucion fue hacerlo con las tecnologías que domino, creé la conexión a mi
 Utilice como servidor local XAMPP.
 
 PD: desafortunadamente para mi, 24 horas no me bastaron para documentarme al 100% en como crear una API Rest. Pero aprendi más sobre las APIS y no dudare en seguir involucrandome más en aprender sus aplicaciones.
+
+Para correr el programa de manera local descarga e instala la ultima versión de xampp, el el disco local c: se creara una carpeta llamada Xampp, abrirla y en la carpeta htdocs crea una nueva carpeta con el nombre que quieras y pega todos los archivos del repositorio excepto el archivo .sql.
+
+Ahora levanta los servicios del servidor Apache y Mysql desde el panel de control de la aplicacion de Xampp, entra en phpMyAdmin y crea la DB DB Venta e imorta el archivo .sql.
+
+Ahora en tu navegador entra a la direccion del proyecto ej: http://localhost/pruebaTecnica
+
+
