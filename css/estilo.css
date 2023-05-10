@@ -1,0 +1,45 @@
+.ancho{
+    max-width: 1200px;
+    margin: auto;
+}
+.izq_der{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.btn_add{
+    border-radius: 30px !important;
+    padding: 8px 30px !important;
+}
+.btn_add{
+    border-radius: 40px !important;
+}
+.label1 input, .label2 input, .label3 input, .label4 input{
+    width: 100% !important;
+}
+.label1{
+    width: 30% !important;
+}
+.label2{
+    width: 59% !important;
+}
+.label3{
+    width: 10% !important;
+}
+.label4{
+    width: 69% !important;
+}
+.cel_acction1{
+    text-align: center;
+}
+.cel_acction {
+    text-align: center;
+}
+.cel_acction a{
+    font-size: 18px;
+}
+.btn_delete{
+    color: red !important;
+    margin-left: 10px;
+}
